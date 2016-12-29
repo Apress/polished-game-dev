@@ -1,0 +1,64 @@
+{
+    "animation": [
+        {
+            "attributes": {}
+        },
+        {
+            "sequence": [
+                {
+                    "attributes": {
+                        "name": "sparkle",
+                        "playback": "loop"
+                    }
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "0",
+                                "time": "250",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "1",
+                                "time": "250",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "2",
+                                "time": "250",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "1",
+                                "time": "250",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+
+
+
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "animation": [
+        {
+            "attributes": {}
+        },
+
+        {
+            "sequence": [
+                {
+                    "attributes": {
+                        "name": "yay",
+                        "playback": "loop"
+                    }
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "2",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "1",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "0",
+                                "time": "250",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "1",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,385 @@
+{
+    "animation": [
+        {
+            "attributes": {}
+        },
+        {
+            "sequence": [
+                {
+                    "attributes": {
+                        "name": "winch",
+                        "playback": "forwards"
+                    }
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "14",
+                                "time": "1150",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "15",
+                                "time": "1250",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "16",
+                                "time": "1250",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": [
+                {
+                    "attributes": {
+                        "name": "idle_left",
+                        "playback": "loop"
+                    }
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "1",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "2",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "3",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "4",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "5",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "6",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": [
+                {
+                    "attributes": {
+                        "name": "idle_right",
+                        "playback": "loop"
+                    }
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "23",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "24",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "25",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "26",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "27",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "28",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": [
+                {
+                    "attributes": {
+                        "name": "bounce_right",
+                        "playback": "forwards"
+                    }
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "13",
+                                "time": "106",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "14",
+                                "time": "72",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "15",
+                                "time": "106",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "16",
+                                "time": "106",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": [
+                {
+                    "attributes": {
+                        "name": "bounce_left",
+                        "playback": "backwards"
+                    }
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "12",
+                                "time": "106",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "13",
+                                "time": "106",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "14",
+                                "time": "72",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "15",
+                                "time": "106",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": [
+                {
+                    "attributes": {
+                        "name": "spring_right",
+                        "playback": "forwards"
+                    }
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "16",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": [
+                {
+                    "attributes": {
+                        "name": "spring_left",
+                        "playback": "forwards"
+                    }
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "12",
+                                "time": "100",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "sequence": [
+                {
+                    "attributes": {
+                        "name": "hanging",
+                        "playback": "loop"
+                    }
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "34",
+                                "time": "185",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "frame": [
+                        {
+                            "attributes": {
+                                "region": "35",
+                                "time": "185",
+                                "units": "ms"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
